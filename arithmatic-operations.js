@@ -1,4 +1,3 @@
-//A program for addition, substraction, multiplication and division of two numbers
 const x = 20;
 const y = 10;
 var z;
@@ -23,6 +22,3 @@ console.log("Square of x :" + x ** 2);
 
 const a = "Hello";
 const b = "World!";
-
-let c = a + " " + b;
-console.log("result :" + c);
