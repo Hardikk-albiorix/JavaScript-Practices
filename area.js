@@ -15,7 +15,7 @@ function calculateArea(shape,width,height) {
     default:
   }
 }
-console.log(calculateArea("Square",10));
-console.log(calculateArea("Triangle",10,12));
-console.log(calculateArea("Rectangle",10,25));
+console.log(calculateArea(Square,10));
+console.log(calculateArea(Triangle,10,12));
+console.log(calculateArea(Rectangle,10,25));
 
